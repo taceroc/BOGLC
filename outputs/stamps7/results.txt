@@ -1,0 +1,5 @@
+Training accuracy for stamps7: 0.8967 
+Testing accuracy for stamps7: 0.6125 
+
+Training accuracy correctGPUGPU for stamps7: 0.9862 
+Testing accuracy correctGPUGPU for stamps7: 0.9418 

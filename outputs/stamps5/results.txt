@@ -1,0 +1,4 @@
+Training accuracy for stamps5: 0.9058 
+Testing accuracy for stamps5: 0.5650 
+Training accuracy correctGPUGPU for stamps5: 0.9871 
+Testing accuracy correctGPUGPU for stamps5: 0.9433 

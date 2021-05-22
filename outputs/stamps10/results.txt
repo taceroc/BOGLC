@@ -1,0 +1,7 @@
+Training accuracy for stamps10: 1.0000 
+Testing accuracy for stamps10: 1.0000 
+Training accuracy correctGPU for stamps10: 1.0000 
+Testing accuracy correctGPU for stamps10: 1.0000 
+
+Training accuracy correctGPUGPU for stamps10: 1.0000 
+Testing accuracy correctGPUGPU for stamps10: 1.0000 

@@ -1,0 +1,66 @@
+Start with 0
+
+50218 50218
+16740 16740
+Training accuracy : 0.8391
+Testing accuracy  : 0.8431
+Start with 1
+
+52035 52035
+17345 17345
+Training accuracy : 0.8405
+Testing accuracy  : 0.8394
+Start with 2
+
+59232 59232
+19744 19744
+Training accuracy : 0.8392
+Testing accuracy  : 0.8376
+Start with 3
+
+57078 57078
+19026 19026
+Training accuracy : 0.8408
+Testing accuracy  : 0.8389
+Start with 4
+
+66204 66204
+22068 22068
+Training accuracy : 0.8381
+Testing accuracy  : 0.8361
+Start with 5
+
+51864 51864
+17288 17288
+Training accuracy : 0.8376
+Testing accuracy  : 0.8398
+Start with 6
+
+54172 54172
+18058 18058
+Training accuracy : 0.8366
+Testing accuracy  : 0.8386
+Start with 7
+
+59692 59692
+19898 19898
+Training accuracy : 0.8401
+Testing accuracy  : 0.8359
+Start with 8
+
+67005 67005
+22335 22335
+Training accuracy : 0.8400
+Testing accuracy  : 0.8391
+Start with 9
+
+31921 31921
+10641 10641
+Training accuracy : 0.8439
+Testing accuracy  : 0.8385
+Start with 10
+
+3416 3416
+1139 1139
+Training accuracy : 0.5650
+Testing accuracy  : 0.5812

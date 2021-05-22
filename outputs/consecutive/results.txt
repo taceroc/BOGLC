@@ -1,0 +1,230 @@
+Final lenght of train = 2098, Final lenght of test = 900 
+unique test: (array([0, 1]), array([427, 473])) 
+unique train: (array([0, 1]), array([1062, 1036])) 
+Training accuracy for ['stamps1', '20130902', '20130905', '20130907']: 0.9786 
+Testing accuracy for ['stamps1', '20130902', '20130905', '20130907']: 0.9489
+
+Final lenght of train = 1999, Final lenght of test = 857 
+unique test: (array([0, 1]), array([436, 421])) 
+unique train: (array([0, 1]), array([ 982, 1017])) 
+Training accuracy for ['stamps2', '20130902', '20130905', '20130907']: 0.9825 
+Testing accuracy for ['stamps2', '20130902', '20130905', '20130907']: 0.9475 
+
+Final lenght of train = 2046, Final lenght of test = 878 
+unique test: (array([0, 1]), array([427, 451])) 
+unique train: (array([0, 1]), array([1025, 1021])) 
+Training accuracy for ['stamps3', '20130902', '20130905', '20130907']: 0.9829 
+Testing accuracy for ['stamps3', '20130902', '20130905', '20130907']: 0.9533 
+
+Final lenght of train = 1730, Final lenght of test = 742 
+unique test: (array([0, 1]), array([368, 374])) 
+unique train: (array([0, 1]), array([858, 872])) 
+Training accuracy for ['stamps4', '20130902', '20130905', '20130907']: 0.9827 
+Testing accuracy for ['stamps4', '20130902', '20130905', '20130907']: 0.9299 
+
+Final lenght of train = 2150, Final lenght of test = 922 
+unique test: (array([0, 1]), array([452, 470])) 
+unique train: (array([0, 1]), array([1074, 1076])) 
+Training accuracy for ['stamps5', '20130902', '20130905', '20130907']: 0.9823 
+Testing accuracy for ['stamps5', '20130902', '20130905', '20130907']: 0.9523 
+
+Final lenght of train = 1381, Final lenght of test = 593 
+unique test: (array([0, 1]), array([301, 292])) 
+unique train: (array([0, 1]), array([676, 705])) 
+Training accuracy for ['stamps6', '20130902', '20130905', '20130907']: 0.9761 
+Testing accuracy for ['stamps6', '20130902', '20130905', '20130907']: 0.9545 
+
+Final lenght of train = 1426, Final lenght of test = 612 
+unique test: (array([0, 1]), array([324, 288])) 
+unique train: (array([0, 1]), array([685, 741])) 
+Training accuracy for ['stamps7', '20130902', '20130905', '20130907']: 0.9769 
+Testing accuracy for ['stamps7', '20130902', '20130905', '20130907']: 0.9461 
+
+Final lenght of train = 1794, Final lenght of test = 770 
+unique test: (array([0, 1]), array([385, 385])) 
+unique train: (array([0, 1]), array([887, 907])) 
+Training accuracy for ['stamps8', '20130902', '20130905', '20130907']: 0.9810 
+Testing accuracy for ['stamps8', '20130902', '20130905', '20130907']: 0.9468 
+
+Final lenght of train = 735, Final lenght of test = 315 
+unique test: (array([0, 1]), array([160, 155])) 
+unique train: (array([0, 1]), array([355, 380])) 
+Training accuracy for ['stamps9', '20130902', '20130905', '20130907']: 0.9837 
+Testing accuracy for ['stamps9', '20130902', '20130905', '20130907']: 0.9460 
+
+
+
+Final lenght of train = 236, Final lenght of test = 102 
+unique test: (array([0, 1]), array([52, 50])) 
+unique train: (array([0, 1]), array([127, 109])) 
+Training accuracy for ['stamps1', '20140209', '20140208', '20140207']: 0.9915 
+Testing accuracy for ['stamps1', '20140209', '20140208', '20140207']: 0.8824 
+
+Final lenght of train = 317, Final lenght of test = 137 
+unique test: (array([0, 1]), array([74, 63])) 
+unique train: (array([0, 1]), array([163, 154])) 
+Training accuracy for ['stamps2', '20140209', '20140208', '20140207']: 0.9685 
+Testing accuracy for ['stamps2', '20140209', '20140208', '20140207']: 0.8613 
+
+Final lenght of train = 235, Final lenght of test = 101 
+unique test: (array([0, 1]), array([57, 44])) 
+unique train: (array([0, 1]), array([121, 114])) 
+Training accuracy for ['stamps3', '20140209', '20140208', '20140207']: 0.9915 
+Testing accuracy for ['stamps3', '20140209', '20140208', '20140207']: 0.9208 
+
+Final lenght of train = 340, Final lenght of test = 146 
+unique test: (array([0, 1]), array([72, 74])) 
+unique train: (array([0, 1]), array([181, 159])) 
+Training accuracy for ['stamps4', '20140209', '20140208', '20140207']: 0.9676 
+Testing accuracy for ['stamps4', '20140209', '20140208', '20140207']: 0.8904 
+
+Final lenght of train = 239, Final lenght of test = 103 
+unique test: (array([0, 1]), array([53, 50])) 
+unique train: (array([0, 1]), array([128, 111])) 
+Training accuracy for ['stamps5', '20140209', '20140208', '20140207']: 0.9749 
+Testing accuracy for ['stamps5', '20140209', '20140208', '20140207']: 0.8835 
+
+Final lenght of train = 371, Final lenght of test = 159 
+unique test: (array([0, 1]), array([76, 83])) 
+unique train: (array([0, 1]), array([199, 172])) 
+Training accuracy for ['stamps6', '20140209', '20140208', '20140207']: 0.9838 
+Testing accuracy for ['stamps6', '20140209', '20140208', '20140207']: 0.8616 
+
+Final lenght of train = 386, Final lenght of test = 166 
+unique test: (array([0, 1]), array([82, 84])) 
+unique train: (array([0, 1]), array([204, 182])) 
+Training accuracy for ['stamps7', '20140209', '20140208', '20140207']: 0.9741 
+Testing accuracy for ['stamps7', '20140209', '20140208', '20140207']: 0.9157 
+
+Final lenght of train = 330, Final lenght of test = 142 
+unique test: (array([0, 1]), array([76, 66])) 
+unique train: (array([0, 1]), array([170, 160])) 
+Training accuracy for ['stamps8', '20140209', '20140208', '20140207']: 0.9727 
+Testing accuracy for ['stamps8', '20140209', '20140208', '20140207']: 0.9225 
+
+Final lenght of train = 498, Final lenght of test = 214 
+unique test: (array([0, 1]), array([114, 100])) 
+unique train: (array([0, 1]), array([252, 246])) 
+Training accuracy for ['stamps9', '20140209', '20140208', '20140207']: 0.9739 
+Testing accuracy for ['stamps9', '20140209', '20140208', '20140207']: 0.8832 
+
+
+Final lenght of train = 2248, Final lenght of test = 750 
+unique test: (array([0, 1]), array([350, 400])) 
+unique train: (array([0, 1]), array([1139, 1109])) 
+Training accuracy for ['stamps1', '20130902', '20130905', '20130907']: 0.9818 
+Testing accuracy for ['stamps1', '20130902', '20130905', '20130907']: 0.9587 
+
+Final lenght of train = 52035, Final lenght of test = 17345 
+unique test: (array([0, 1]), array([8686, 8659])) 
+unique train: (array([0, 1]), array([26014, 26021])) 
+Training accuracy for ['stamps1']: 0.8805 
+Testing accuracy for ['stamps1']: 0.5023 
+
+Final lenght of train = 1960, Final lenght of test = 654 
+unique test: (array([0, 1]), array([348, 306])) 
+unique train: (array([0, 1]), array([969, 991])) 
+Training accuracy for ['stamps1', '20130829', '20140209', '20131230']: 0.8485 
+Testing accuracy for ['stamps1', '20130829', '20140209', '20131230']: 0.5306 
+
+Final lenght of train = 2113, Final lenght of test = 705 
+unique test: (array([0, 1]), array([351, 354])) 
+unique train: (array([0, 1]), array([1048, 1065])) 
+Training accuracy for ['stamps1', '20130829', '20130831', '20130901', '20130902']: 0.9792 
+Testing accuracy for ['stamps1', '20130829', '20130831', '20130901', '20130902']: 0.9433 
+
+Final lenght of train = 1614, Final lenght of test = 538 
+unique test: (array([0, 1]), array([266, 272])) 
+unique train: (array([0, 1]), array([800, 814])) 
+Training accuracy for ['stamps1', '20130829', '20130831', '20130901', '20131219']: 0.9009 
+Testing accuracy for ['stamps1', '20130829', '20130831', '20130901', '20131219']: 0.5130 
+
+Final lenght of train = 1957, Final lenght of test = 653 
+unique test: (array([0, 1]), array([339, 314])) 
+unique train: (array([0, 1]), array([976, 981])) 
+Training accuracy for ['stamps1', '20131215', '20131218', '20131219']: 0.9862 
+Testing accuracy for ['stamps1', '20131215', '20131218', '20131219']: 0.9357 
+
+Final lenght of train = 3817, Final lenght of test = 1273 
+unique test: (array([0, 1]), array([628, 645])) 
+unique train: (array([0, 1]), array([1927, 1890])) 
+Training accuracy for ['stamps1', '20131215', '20131218', '20131219', '20130829']: 0.8976 
+Testing accuracy for ['stamps1', '20131215', '20131218', '20131219', '20130829']: 0.5326 
+
+Final lenght of train = 4246, Final lenght of test = 1416 
+unique test: (array([0, 1]), array([685, 731])) 
+unique train: (array([0, 1]), array([2156, 2090])) 
+Training accuracy for ['stamps1' '20131215' '20131218' '20131219' 'stamps2' '20131215''20131218' '20131219']: 0.9856 
+Testing accuracy for ['stamps1' '20131215' '20131218' '20131219' 'stamps2' '20131215''20131218' '20131219']: 0.9407 
+ 
+Final lenght of train = 5463, Final lenght of test = 1821 
+unique test: (array([0, 1]), array([944, 877])) 
+unique train: (array([0, 1]), array([2708, 2755])) 
+Training accuracy for ['stamps1' '20131215' '20131218' '20131219' 'stamps2' '20130829''20130831' '20130901']: 0.8775 
+Testing accuracy for ['stamps1' '20131215' '20131218' '20131219' 'stamps2' '20130829''20130831' '20130901']: 0.5338 
+Final lenght of train = 1624, Final lenght of test = 542 
+unique test: (array([0, 1]), array([269, 273])) 
+unique train: (array([0, 1]), array([804, 820])) 
+Training accuracy for ['stamps1', '20130829', '20130831', '20130901', '20131002']: 0.9828 
+Testing accuracy for ['stamps1', '20130829', '20130831', '20130901', '20131002']: 0.9391 
+Final lenght of train = 2739, Final lenght of test = 913 
+unique test: (array([0, 1]), array([430, 483])) 
+unique train: (array([0, 1]), array([1386, 1353])) 
+Training accuracy for ['stamps1', '20130829', '20130831', '20131001', '20131002']: 0.9817 
+Testing accuracy for ['stamps1', '20130829', '20130831', '20131001', '20131002']: 0.9430 
+Final lenght of train = 2472, Final lenght of test = 824 
+unique test: (array([0, 1]), array([398, 426])) 
+unique train: (array([0, 1]), array([1240, 1232])) 
+Training accuracy for ['stamps1', '20130829', '20130831', '20130901', '20131024']: 0.9765 
+Testing accuracy for ['stamps1', '20130829', '20130831', '20130901', '20131024']: 0.9478 
+
+Final lenght of train = 5065, Final lenght of test = 1689 
+unique test: (array([0, 1]), array([842, 847])) 
+unique train: (array([0, 1]), array([2545, 2520])) 
+Training accuracy for ['stamps1', '20130829', '20130831', '20130901', '20131105']: 0.9889 
+Testing accuracy for ['stamps1', '20130829', '20130831', '20130901', '20131105']: 0.9355 
+
+Final lenght of train = 2902, Final lenght of test = 968 
+unique test: (array([0, 1]), array([485, 483])) 
+unique train: (array([0, 1]), array([1440, 1462])) 
+Training accuracy for ['stamps1', '20130829', '20130831', '20130901', '20131130']: 0.8932 
+Testing accuracy for ['stamps1', '20130829', '20130831', '20130901', '20131130']: 0.5599 
+
+Final lenght of train = 1749, Final lenght of test = 583 
+unique test: (array([0, 1]), array([285, 298])) 
+unique train: (array([0, 1]), array([871, 878])) 
+Training accuracy for ['stamps1', '20130829', '20130831', '20130901', '20131114']: 0.9571 
+Testing accuracy for ['stamps1', '20130829', '20130831', '20130901', '20131114']: 0.9348 
+
+Final lenght of train = 1359, Final lenght of test = 453 
+unique test: (array([0, 1]), array([213, 240])) 
+unique train: (array([0, 1]), array([683, 676])) 
+Training accuracy for ['stamps1', '20130829', '20130831', '20130901', '20131120']: 0.9868 
+Testing accuracy for ['stamps1', '20130829', '20130831', '20130901', '20131120']: 0.9426
+
+Final lenght of train = 1663, Final lenght of test = 555 
+unique test: (array([0, 1]), array([265, 290])) 
+unique train: (array([0, 1]), array([834, 829])) 
+Training accuracy for ['stamps1', '20130829', '20130831', '20130901', '20131121']: 0.9567 
+Testing accuracy for ['stamps1', '20130829', '20130831', '20130901', '20131121']: 0.9351 
+
+Final lenght of train = 2143, Final lenght of test = 715 
+unique test: (array([0, 1]), array([361, 354])) 
+unique train: (array([0, 1]), array([1058, 1085])) 
+Training accuracy for ['stamps1', '20130829', '20130831', '20130901', '20131128']: 0.8955 
+Testing accuracy for ['stamps1', '20130829', '20130831', '20130901', '20131128']: 0.5147 
+Final lenght of train = 1132, Final lenght of test = 378 
+unique test: (array([0, 1]), array([201, 177])) 
+unique train: (array([0, 1]), array([544, 588])) 
+Training accuracy for ['stamps6', '20130829', '20130831', '20130901', '20131121']: 0.9611 
+Testing accuracy for ['stamps6', '20130829', '20130831', '20130901', '20131121']: 0.9259 
+Final lenght of train = 1408, Final lenght of test = 470 
+unique test: (array([0, 1]), array([253, 217])) 
+unique train: (array([0, 1]), array([676, 732])) 
+Training accuracy for ['stamps6', '20130829', '20130831', '20130901', '20131128']: 0.9070 
+Testing accuracy for ['stamps6', '20130829', '20130831', '20130901', '20131128']: 0.5085 
+-----------------------Final lenght of train = 1408, Final lenght of test = 470 
+unique test: (array([0, 1]), array([253, 217])) 
+unique train: (array([0, 1]), array([676, 732])) 
+Training accuracy for ['stamps6', '20130829', '20130831', '20130901', '20131128']: 0.9695 
+Testing accuracy for ['stamps6', '20130829', '20130831', '20130901', '20131128']: 0.8915 

@@ -1,0 +1,7 @@
+Training accuracy for stamps2: 0.9417 
+Testing accuracy for stamps2: 0.9800 
+Training accuracy for stamps2: 0.8992 
+Testing accuracy for stamps2: 0.5825 
+
+Training accuracy correctGPUGPU for stamps2: 0.9871 
+Testing accuracy correctGPUGPU for stamps2: 0.9491 

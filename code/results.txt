@@ -1,0 +1,383 @@
+## Fit the model created with small data set to each one of the folders stamps
+Training accuracy for stamps0: 0.4922 
+Testing accuracy for stamps0: 0.5010 
+Training accuracy for stamps1: 0.5002 
+Testing accuracy for stamps1: 0.4995 
+Training accuracy for stamps2: 0.4999 
+Testing accuracy for stamps2: 0.4973 
+Training accuracy for stamps3: 0.4998 
+Testing accuracy for stamps3: 0.5055  
+Training accuracy for stamps4: 0.4973 
+Testing accuracy for stamps4: 0.4984 
+Training accuracy for stamps5: 0.4899 
+Testing accuracy for stamps5: 0.4939 
+Training accuracy for stamps6: 0.4906 
+Testing accuracy for stamps6: 0.4827 
+Training accuracy for stamps7: 0.4915 
+Testing accuracy for stamps7: 0.4901 
+Training accuracy for stamps8: 0.4982 
+Testing accuracy for stamps8: 0.4949 
+Training accuracy for stamps9: 0.4993 
+Testing accuracy for stamps9: 0.4937 
+Training accuracy for stamps10: 0.6036 
+Testing accuracy for stamps10: 0.6005 
+Training accuracy for stamps_small: 0.9899 
+Testing accuracy for stamps_small: 0.9646 
+
+Training accuracy GPUGPUTAC 7525 for small: 0.9924 
+Testing accuracy GPUGPUTAC 7525 for small: 0.9570 
+Training accuracy GPUGPUTAC 7030 for small: 0.9882 
+Testing accuracy GPUGPUTAC 7030 for small: 0.9726 
+
+Training accuracy GPUGPUNER 7525 for small: 0.9924
+Testing accuracy GPUGPUNER 7525 for small: 0.9544 
+Training accuracy GPUGPUNER 7030 for small: 0.9892
+Testing accuracy GPUGPUNER 7030 for small: 0.9726 
+
+----------------------------------------------
+Train the model using tensorflow 2.0.0 GPU (the one I install) and NERSC GPU
+
+(1185, 51, 153) (395, 51, 153)
+unique test: (array([0, 1]), array([187, 208]))
+unique train: (array([0, 1]), array([593, 592]))
+Training accuracy GPUGPU for small: 0.9932 
+Testing accuracy GPUGPU for small: 0.9544 
+Time in seconds GPUGPU for small: 12.6105 
+
+(50218, 51, 153) (16740, 51, 153)
+unique test0: (array([0, 1]), array([8373, 8367])) 
+unique train0: (array([0, 1]), array([25116, 25102])) 
+Training accuracy GPUGPU for stamps0: 0.9863 
+Testing accuracy GPUGPU for stamps0: 0.9417 
+Time in seconds GPUGPU for stamps0: 335.0825 
+
+(52035, 51, 153) (17345, 51, 153)
+unique test1: (array([0, 1]), array([8686, 8659])) 
+unique train1: (array([0, 1]), array([26014, 26021])) 
+Training accuracy GPUGPU for stamps1: 0.9856 
+Testing accuracy GPUGPU for stamps1: 0.9403 
+Time in seconds GPUGPU for stamps1: 343.4002 
+
+
+(59232, 51, 153) (19744, 51, 153) 
+unique test2: (array([0, 1]), array([9878, 9866])) 
+unique train2: (array([0, 1]), array([29620, 29612])) 
+Training accuracy GPUGPU for stamps2: 0.9845 
+Testing accuracy GPUGPU for stamps2: 0.9460 
+Time in seconds GPUGPU for stamps2: 422.8772 
+
+(57078, 51, 153) (19026, 51, 153)
+unique test3: (array([0, 1]), array([9572, 9454])) 
+unique train3: (array([0, 1]), array([28490, 28588])) 
+Training accuracy GPUGPU for stamps3: 0.9866 
+Testing accuracy GPUGPU for stamps3: 0.9434 
+Time in seconds GPUGPU for stamps3: 366.2148 
+
+(66204, 51, 153) (22068, 51, 153)
+unique test4: (array([0, 1]), array([11059, 11009])) 
+unique train4: (array([0, 1]), array([33087, 33117])) 
+Training accuracy GPUGPU for stamps4: 0.9786 
+Testing accuracy GPUGPU for stamps4: 0.9380 
+Time in seconds GPUGPU for stamps4: 496.3353 
+
+(51864, 51, 153) (17288, 51, 153)
+unique test5: (array([0, 1]), array([8681, 8607])) 
+unique train5: (array([0, 1]), array([25905, 25959])) 
+Training accuracy GPUGPU for stamps5: 0.9855 
+Testing accuracy GPUGPU for stamps5: 0.9454 
+Time in seconds GPUGPU for stamps5: 317.7000 
+
+(54172, 51, 153) (18058, 51, 153) 
+unique test6: (array([0, 1]), array([9071, 8987])) 
+unique train6: (array([0, 1]), array([27034, 27138])) 
+Training accuracy GPUGPU for stamps6: 0.9869 
+Testing accuracy GPUGPU for stamps6: 0.9445 
+Time in seconds GPUGPU for stamps6: 332.9596 
+
+(59692, 51, 153) (19898, 51, 153)
+unique test7: (array([0, 1]), array([9921, 9977])) 
+unique train7: (array([0, 1]), array([29864, 29828])) 
+Training accuracy GPUGPU for stamps7: 0.9863 
+Testing accuracy GPUGPU for stamps7: 0.9449 
+Time in seconds GPUGPU for stamps7: 437.8598 
+
+(67005, 51, 153) (22335, 51, 153)
+unique test8: (array([0, 1]), array([11158, 11177])) 
+unique train8: (array([0, 1]), array([33502, 33503])) 
+Training accuracy GPUGPU for stamps8: 0.9863 
+Testing accuracy GPUGPU for stamps8: 0.9473 
+Time in seconds GPUGPU for stamps8: 452.5661 
+
+(31921, 51, 153) (10641, 51, 153)
+unique test9: (array([0, 1]), array([5348, 5293])) 
+unique train9: (array([0, 1]), array([15923, 15998])) 
+Training accuracy GPUGPU for stamps9: 0.9871 
+Testing accuracy GPUGPU for stamps9: 0.9496 
+Time in seconds GPUGPU for stamps9: 185.2778 
+
+(3416, 51, 153) (1139, 51, 153)
+unique test10: (array([1]), array([1139])) 
+unique train10: (array([1]), array([3416])) 
+Training accuracy GPUGPU for stamps10: 1.0000 
+Testing accuracy GPUGPU for stamps10: 1.0000 
+Time in seconds GPUGPU for stamps10: 22.3893 
+
+
+----------------------------------------------
+Train the model using tensorflow 2.0.0 GPU (the one given in JupyterLab) and NERSC GPU
+
+(1185, 51, 153) (395, 51, 153)
+unique test: (array([0, 1]), array([187, 208]))
+unique train: (array([0, 1]), array([593, 592]))
+Training accuracy GPUGPU for small : 0.9924
+Testing accuracy GPUGPUGfor small  : 0.9544
+Time in seconds GPUGPU for small: 11.375942707061768
+
+
+Train0 shape: {}, Test0 shape: (50218, 51, 153) 
+unique test0: (array([0, 1]), array([8373, 8367])) 
+unique train0: (array([0, 1]), array([25116, 25102])) 
+Training accuracy GPUGPU for stamps0: 0.9865 
+Testing accuracy GPUGPU for stamps0: 0.9433 
+Time in seconds GPUGPU for stamps0: 271.4653 
+
+Train1 shape: {}, Test1 shape: (52035, 51, 153) 
+unique test1: (array([0, 1]), array([8686, 8659])) 
+unique train1: (array([0, 1]), array([26014, 26021])) 
+Training accuracy GPUGPU for stamps1: 0.9865 
+Testing accuracy GPUGPU for stamps1: 0.9436 
+Time in seconds GPUGPU for stamps1: 289.0932 
+
+Train2 shape: {}, Test2 shape: (59232, 51, 153) 
+unique test2: (array([0, 1]), array([9878, 9866])) 
+unique train2: (array([0, 1]), array([29620, 29612])) 
+Training accuracy GPUGPU for stamps2: 0.9876 
+Testing accuracy GPUGPU for stamps2: 0.9488 
+Time in seconds GPUGPU for stamps2: 337.3635 
+
+Train3 shape: {}, Test3 shape: (57078, 51, 153) 
+unique test3: (array([0, 1]), array([9572, 9454])) 
+unique train3: (array([0, 1]), array([28490, 28588])) 
+Training accuracy GPUGPU for stamps3: 0.9861 
+Testing accuracy GPUGPU for stamps3: 0.9395 
+Time in seconds GPUGPU for stamps3: 336.1140 
+
+Train4 shape: {}, Test4 shape: (66204, 51, 153) 
+unique test4: (array([0, 1]), array([11059, 11009])) 
+unique train4: (array([0, 1]), array([33087, 33117])) 
+Training accuracy GPUGPU for stamps4: 0.9871 
+Testing accuracy GPUGPU for stamps4: 0.9445 
+Time in seconds GPUGPU for stamps4: 365.3201 
+
+Train5 shape: {}, Test5 shape: (51864, 51, 153) 
+unique test5: (array([0, 1]), array([8681, 8607])) 
+unique train5: (array([0, 1]), array([25905, 25959])) 
+Training accuracy GPUGPU for stamps5: 0.9869 
+Testing accuracy GPUGPU for stamps5: 0.9439 
+Time in seconds GPUGPU for stamps5: 287.8265 
+
+Train6 shape: {}, Test6 shape: (54172, 51, 153) 
+unique test6: (array([0, 1]), array([9071, 8987])) 
+unique train6: (array([0, 1]), array([27034, 27138])) 
+Training accuracy GPUGPU for stamps6: 0.9872 
+Testing accuracy GPUGPU for stamps6: 0.9461 
+Time in seconds GPUGPU for stamps6: 321.0887 
+
+Train7 shape: {}, Test7 shape: (59692, 51, 153) 
+unique test7: (array([0, 1]), array([9921, 9977])) 
+unique train7: (array([0, 1]), array([29864, 29828])) 
+Training accuracy GPUGPU for stamps7: 0.9859 
+Testing accuracy GPUGPU for stamps7: 0.9441 
+Time in seconds GPUGPU for stamps7: 326.9036 
+
+Train8 shape: {}, Test8 shape: (67005, 51, 153) 
+unique test8: (array([0, 1]), array([11158, 11177])) 
+unique train8: (array([0, 1]), array([33502, 33503])) 
+Training accuracy GPUGPU for stamps8: 0.9871 
+Testing accuracy GPUGPU for stamps8: 0.9475 
+Time in seconds GPUGPU for stamps8: 397.0259 
+
+Train9 shape: {}, Test9 shape: (31921, 51, 153) 
+unique test9: (array([0, 1]), array([5348, 5293])) 
+unique train9: (array([0, 1]), array([15923, 15998])) 
+Training accuracy GPUGPU for stamps9: 0.9868 
+Testing accuracy GPUGPU for stamps9: 0.9502 
+Time in seconds GPUGPU for stamps9: 169.8559 
+
+Train10 shape: {}, Test10 shape: (3416, 51, 153) 
+unique test10: (array([1]), array([1139])) 
+unique train10: (array([1]), array([3416])) 
+Training accuracy GPUGPU for stamps10: 1.0000 
+Testing accuracy GPUGPU for stamps10: 1.0000 
+Time in seconds GPUGPU for stamps10: 21.4546 
+
+
+----------------------------------------------
+
+Train the model using tensorflow 2.0.0 GPU (the one I install) and NERSC CPU
+
+Training accuracy GPUCPUTAC 7030 for small: 0.9924 
+Testing accuracy GPUCPUTAC 7030 for small: 0.9570 
+51.20803451538086
+
+(50218, 51, 153) (16740, 51, 153)
+unique test: (array([0, 1]), array([8373, 8367]))
+unique train: (array([0, 1]), array([25116, 25102]))
+Training accuracy GPUCPU for stamps0 : 0.9867
+Testing accuracy GPUCPU for stamps0  : 0.9421
+2215.6315603256226(50218, 51, 153),(16740, 51, 153)
+(52035, 51, 153),(17345, 51, 153)
+unique test_1: (array([0, 1]), array([8686, 8659])) 
+unique train_1: (array([0, 1]), array([26014, 26021])) 
+Training accuracy GPUCPU for stamps1: 0.9862 
+Testing accuracy GPUCPU for stamps1: 0.9417 
+Time in seconds GPUCPU for stamps1: 2401.1442 
+
+(59232, 51, 153),(19744, 51, 153)
+unique test_2: (array([0, 1]), array([9878, 9866])) 
+unique train_2: (array([0, 1]), array([29620, 29612])) 
+Training accuracy GPUCPU for stamps2: 0.9878 
+Testing accuracy GPUCPU for stamps2: 0.9498 
+Time in seconds GPUCPU for stamps2: 2809.0214 
+
+(57078, 51, 153),(19026, 51, 153)
+unique test_3: (array([0, 1]), array([9572, 9454])) 
+unique train_3: (array([0, 1]), array([28490, 28588])) 
+Training accuracy GPUCPU for stamps3: 0.9819 
+Testing accuracy GPUCPU for stamps3: 0.9376 
+Time in seconds GPUCPU for stamps3: 2560.4466 
+
+(66204, 51, 153),(22068, 51, 153)
+unique test_4: (array([0, 1]), array([11059, 11009])) 
+unique train_4: (array([0, 1]), array([33087, 33117])) 
+Training accuracy GPUCPU for stamps4: 0.9870 
+Testing accuracy GPUCPU for stamps4: 0.9448 
+Time in seconds GPUCPU for stamps4: 2564.9198 
+
+(51864, 51, 153),(17288, 51, 153)
+unique test_5: (array([0, 1]), array([8681, 8607])) 
+unique train_5: (array([0, 1]), array([25905, 25959])) 
+Training accuracy GPUCPU for stamps5: 0.9867 
+Testing accuracy GPUCPU for stamps5: 0.9442 
+Time in seconds GPUCPU for stamps5: 2005.3983 
+
+(54172, 51, 153),(18058, 51, 153)
+unique test_6: (array([0, 1]), array([9071, 8987])) 
+unique train_6: (array([0, 1]), array([27034, 27138])) 
+Training accuracy GPUCPU for stamps6: 0.9876 
+Testing accuracy GPUCPU for stamps6: 0.9449 
+Time in seconds GPUCPU for stamps6: 2092.4686 
+
+(59692, 51, 153),(19898, 51, 153)
+unique test_7: (array([0, 1]), array([9921, 9977])) 
+unique train_7: (array([0, 1]), array([29864, 29828])) 
+Training accuracy GPUCPU for stamps7: 0.9860 
+Testing accuracy GPUCPU for stamps7: 0.9444 
+Time in seconds GPUCPU for stamps7: 2322.8169 
+
+(67005, 51, 153),(22335, 51, 153)
+unique test_8: (array([0, 1]), array([11158, 11177])) 
+unique train_8: (array([0, 1]), array([33502, 33503])) 
+Training accuracy GPUCPU for stamps8: 0.9782 
+Testing accuracy GPUCPU for stamps8: 0.9377 
+Time in seconds GPUCPU for stamps8: 2592.8990 
+
+(31921, 51, 153),(10641, 51, 153)
+unique test_9: (array([0, 1]), array([5348, 5293])) 
+unique train_9: (array([0, 1]), array([15923, 15998])) 
+Training accuracy GPUCPU for stamps9: 0.9867 
+Testing accuracy GPUCPU for stamps9: 0.9497 
+Time in seconds GPUCPU for stamps9: 1225.2817 
+
+(3416, 51, 153),(1139, 51, 153)
+unique test_10: (array([1]), array([1139])) 
+unique train_10: (array([1]), array([3416])) 
+Training accuracy GPUCPU for stamps10: 1.0000 
+Testing accuracy GPUCPU for stamps10: 1.0000 
+Time in seconds GPUCPU for stamps10: 135.2345 
+
+
+----------------------------------------------
+Train the model using tensorflow 2.0.0 CPU (the one given in JupyterLab) and NERSC CPU
+
+Training accuracy for small : 0.9932
+Testing accuracy for small : 0.9544
+104.66372156143188
+
+
+(50218, 51, 153),(16740, 51, 153)
+unique test_0: (array([0, 1]), array([8373, 8367])) 
+unique train_0: (array([0, 1]), array([25116, 25102])) 
+Training accuracy GPUCPU for stamps0: 0.9862 
+Testing accuracy GPUCPU for stamps0: 0.9401 
+Time in seconds GPUCPU for stamps0: 4185.7563 
+
+(52035, 51, 153),(17345, 51, 153)
+unique test_1: (array([0, 1]), array([8686, 8659])) 
+unique train_1: (array([0, 1]), array([26014, 26021])) 
+Training accuracy GPUCPU for stamps1: 0.9863 
+Testing accuracy GPUCPU for stamps1: 0.9425 
+Time in seconds GPUCPU for stamps1: 4132.1381 
+
+(59232, 51, 153),(19744, 51, 153)
+unique test_2: (array([0, 1]), array([9878, 9866])) 
+unique train_2: (array([0, 1]), array([29620, 29612])) 
+Training accuracy GPUCPU for stamps2: 0.9874 
+Testing accuracy GPUCPU for stamps2: 0.9487 
+Time in seconds GPUCPU for stamps2: 5168.6916 
+
+(57078, 51, 153),(19026, 51, 153)
+unique test_3: (array([0, 1]), array([9572, 9454])) 
+unique train_3: (array([0, 1]), array([28490, 28588])) 
+Training accuracy GPUCPU for stamps3: 0.9866 
+Testing accuracy GPUCPU for stamps3: 0.9391 
+Time in seconds GPUCPU for stamps3: 5462.0554 
+
+(66204, 51, 153),(22068, 51, 153)
+unique test_4: (array([0, 1]), array([11059, 11009])) 
+unique train_4: (array([0, 1]), array([33087, 33117])) 
+Training accuracy GPUCPU for stamps4: 0.9873 
+Testing accuracy GPUCPU for stamps4: 0.9466 
+Time in seconds GPUCPU for stamps4: 6522.6585 
+
+(51864, 51, 153),(17288, 51, 153)
+unique test_5: (array([0, 1]), array([8681, 8607])) 
+unique train_5: (array([0, 1]), array([25905, 25959])) 
+Training accuracy GPUCPU for stamps5: 0.9861 
+Testing accuracy GPUCPU for stamps5: 0.9429 
+Time in seconds GPUCPU for stamps5: 4782.4374 
+
+(54172, 51, 153),(18058, 51, 153)
+unique test_6: (array([0, 1]), array([9071, 8987])) 
+unique train_6: (array([0, 1]), array([27034, 27138])) 
+Training accuracy GPUCPU for stamps6: 0.9870 
+Testing accuracy GPUCPU for stamps6: 0.9463 
+Time in seconds GPUCPU for stamps6: 4877.8206 
+
+(59692, 51, 153),(19898, 51, 153)
+unique test_7: (array([0, 1]), array([9921, 9977])) 
+unique train_7: (array([0, 1]), array([29864, 29828])) 
+Training accuracy GPUCPU for stamps7: 0.9864 
+Testing accuracy GPUCPU for stamps7: 0.9426 
+Time in seconds GPUCPU for stamps7: 4874.0119 
+
+(67005, 51, 153),(22335, 51, 153)
+unique test_8: (array([0, 1]), array([11158, 11177])) 
+unique train_8: (array([0, 1]), array([33502, 33503])) 
+Training accuracy GPUCPU for stamps8: 0.9865 
+Testing accuracy GPUCPU for stamps8: 0.9484 
+Time in seconds GPUCPU for stamps8: 5271.1512 
+
+(31921, 51, 153),(10641, 51, 153)
+unique test_9: (array([0, 1]), array([5348, 5293])) 
+unique train_9: (array([0, 1]), array([15923, 15998])) 
+Training accuracy GPUCPU for stamps9: 0.9864 
+Testing accuracy GPUCPU for stamps9: 0.9491 
+Time in seconds GPUCPU for stamps9: 2566.6685 
+
+(3416, 51, 153),(1139, 51, 153)
+unique test_10: (array([1]), array([1139])) 
+unique train_10: (array([1]), array([3416])) 
+Training accuracy GPUCPU for stamps10: 1.0000 
+Testing accuracy GPUCPU for stamps10: 1.0000 
+Time in seconds GPUCPU for stamps10: 291.0480 

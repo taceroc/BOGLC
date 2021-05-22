@@ -1,0 +1,12 @@
+Training accuracy for stamps0: 0.9475 
+Testing accuracy for stamps0: 1.0000 
+Training accuracy for stamps0: 0.7950 
+Testing accuracy for stamps0: 0.5000 
+Training accuracy for stamps0: 0.8892 
+Testing accuracy for stamps0: 0.4575 
+Training accuracy for stamps0: 0.8892 
+Testing accuracy for stamps0: 0.4575 
+
+
+Training accuracy correctGPUGPU for stamps0: 0.9867 
+Testing accuracy correctGPUGPU for stamps0: 0.9407 

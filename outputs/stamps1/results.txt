@@ -1,0 +1,15 @@
+Training accuracy for stamps1: 0.9283 
+Testing accuracy for stamps1: 0.9850 
+Training accuracy for stamps1: 0.8992 
+Testing accuracy for stamps1: 0.5175 
+
+Training accuracy correctGPUGPU for stamps1: 0.9860 
+Testing accuracy correctGPUGPU for stamps1: 0.9451 
+
+-------------------------------------------------
+Small+one convolutional64 layer 
+epochs=300
+batch_size=1000
+
+Training accuracy : 0.9669
+Testing accuracy  : 0.9538

@@ -1,0 +1,7 @@
+Training accuracy for stamps9: 0.8917 
+Testing accuracy for stamps9: 0.4750 
+Training accuracy correctGPU for stamps9: 0.9867 
+Testing accuracy correctGPU for stamps9: 0.9497 
+
+Training accuracy correctGPUGPU for stamps9: 0.9866 
+Testing accuracy correctGPUGPU for stamps9: 0.9483 

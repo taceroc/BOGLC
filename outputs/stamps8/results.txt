@@ -1,0 +1,6 @@
+Training accuracy for stamps8: 0.8975 
+Testing accuracy for stamps8: 0.5100 Training accuracy correctGPU for stamps8: 0.9782 
+Testing accuracy correctGPU for stamps8: 0.9377 
+
+Training accuracy correctGPUGPU for stamps8: 0.9868 
+Testing accuracy correctGPUGPU for stamps8: 0.9469 
